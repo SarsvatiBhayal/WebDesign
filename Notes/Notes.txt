@@ -1,0 +1,21 @@
+Computer:- 
+        Computer is an electroni Device that accept data, processes it, store it and gives us information as output.
+        Input------->processing------->output
+Web Desingning:
+        Web design means design a website so that it looks attraCtive, is easy to use, and works well on different devies.
+    
+    ""HTML bullids the structure , CSS designs the appeaarane, and Javascript adds interaction."
+
+HTML:--
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
